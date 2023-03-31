@@ -1,0 +1,3 @@
+Map:
+    A Map is an object that maps keys to values. A map cannot contain duplicate keys.
+    There are three main implementations of Map interfaces: HashMap, TreeMap, and LinkedHashMap.

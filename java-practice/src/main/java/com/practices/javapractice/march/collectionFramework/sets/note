@@ -1,0 +1,3 @@
+Set:
+    A Set is a Collection that cannot contain duplicate elements.
+    There are three main implementations of Set interface: HashSet, TreeSet, and LinkedHashSet.
